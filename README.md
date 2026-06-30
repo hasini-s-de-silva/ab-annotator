@@ -7,7 +7,7 @@
   ·
   <a href="https://github.com/hasini-s-de-silva/ab-annotator"><strong>Source code</strong></a>
   ·
-  <a href="PASTE_LINKEDIN_POST_URL_HERE"><strong>Watch the LinkedIn demo</strong></a>
+  <a href="https://www.linkedin.com/posts/hasini-de-silva_bioinformatics-antibodyengineering-proteindesign-ugcPost-7477695725410217984-DJf3"><strong>Watch the LinkedIn demo</strong></a>
 </p>
 
 ![AbAnnotator screenshot](assets/abannotator-demo-thumbnail.png)
