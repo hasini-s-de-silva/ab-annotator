@@ -2,6 +2,8 @@
 
 **Web-based antibody variable-domain annotation and developability triage tool.**
 
+![AbAnnotator screenshot](assets/abannotator-demo-thumbnail.png)
+
 <p align="center">
   <a href="https://abannotator.streamlit.app"><strong>Try the live app</strong></a>
   ·
@@ -9,8 +11,6 @@
   ·
   <a href="https://www.linkedin.com/posts/hasini-de-silva_bioinformatics-antibodyengineering-proteindesign-ugcPost-7477695725410217984-DJf3"><strong>Watch the LinkedIn demo</strong></a>
 </p>
-
-![AbAnnotator screenshot](assets/abannotator-demo-thumbnail.png)
 
 ---
 
