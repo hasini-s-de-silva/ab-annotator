@@ -2,11 +2,15 @@
 
 **Web-based antibody variable-domain annotation and developability triage tool.**
 
-<!-- Replace the path below with your actual screenshot once you add it to assets/ -->
-![AbAnnotator screenshot](assets/abannotator-demo-thumbnail.png)
+<p align="center">
+  <a href="https://abannotator.streamlit.app"><strong>Try the live app</strong></a>
+  ·
+  <a href="https://github.com/hasini-s-de-silva/ab-annotator"><strong>Source code</strong></a>
+  ·
+  <a href="PASTE_LINKEDIN_POST_URL_HERE"><strong>Watch the LinkedIn demo</strong></a>
+</p>
 
-<!-- Uncomment and replace with your Streamlit Cloud URL once deployed -->
-<!-- **[Try it live](https://YOUR-APP.streamlit.app)** -->
+![AbAnnotator screenshot](assets/abannotator-demo-thumbnail.png)
 
 ---
 
